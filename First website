@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DOLAPO's First Website</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #2a5dff, #7b2aff);
+      color: #333;
+      text-align: center;
+      padding: 60px 20px;
+      margin: 0;
+      min-height: 100vh;
+    }
+    h1 {
+      color: #2a5dff;
+      margin-bottom: 10px;
+    }
+    .card {
+      background: white;
+      max-width: 500px;
+      margin: 30px auto;
+      padding: 40px 30px;
+      border-radius: 16px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+    }
+    p {
+      line-height: 1.6;
+      font-size: 18px;
+    }
+    .name {
+      color: #7b2aff;
+      font-weight: bold;
+      font-size: 28px;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Alhamdulillah!</h1>
+    <p>My name is <span class="name">DOLAPO</span></p>
+    <p>Welcome to my first website. I’m learning HTML one line at a time.</p>
+    <p>Built with ❤️, curiosity, and lots of Alhamdulillah.</p>
+  </div>
+</body>
+</html>
